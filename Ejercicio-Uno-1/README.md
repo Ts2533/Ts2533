@@ -10,7 +10,7 @@
     <li><h2>Head</h2></li> 
     <p> La parte superior del documento HTML, es donde podremos indicar los metadatos: título del documento, hojas de estilos, javaScript, CSS
       <li><h2>Div</h2></li>
-      <p> Un elemento que es usado mayoritariamente para agrupar otros elementos y actuar como plantilla de otros controles. La etiqueta "Div" nos ayuda a estructurar el documento en secciones.
+      <p> Un elemento que es usado mayoritariamente para agrupar otros elementos y actuar como plantilla de otros controles. La etiqueta "Div" nos ayuda a estructurar el                  documento en secciones.
         <li><h2> a </h2></li>
         <p> Es una etiqueta que nos ayuda a poder crear un enlace a una página web
           <li><h2> Br</h2></li>
