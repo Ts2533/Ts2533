@@ -1,5 +1,4 @@
 
-<div style="background-color: #000000;>
 
 # Hello, I'm Tomas Vanegas ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
@@ -69,4 +68,3 @@
   💙 Thanks for visiting my profile! 💙
 </div>
 
-</div>
