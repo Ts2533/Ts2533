@@ -50,6 +50,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cloudflare,bootstrap,heroku,nodejs,windows,vercel&perline=5" />
+  </a>
+</p>
+
 ---
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif" width="50px"> Statistics
