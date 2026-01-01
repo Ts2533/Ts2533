@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,tailwind,dart,flutter,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=vue,tailwind,dart,flutter,vscode,&perline=5" />
   </a>
 </p>
 
